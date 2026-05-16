@@ -3,6 +3,7 @@
 
 
 # Toss'd A [Dropz](https://github.com/LazuriteMC/Dropz) Fork.
+# Nothing has been done yet, it'll be like that for quite some time till i figure it out
 
 Toss'd makes use of [Rayon](https://github.com/LazuriteMC/Rayon), a physics api for minecraft, in order to
 make item drops physics-based. That means that any item thrown onto the ground will now simply come to rest
