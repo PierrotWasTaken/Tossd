@@ -1,4 +1,6 @@
-<img src="common/src/main/resources/icon.png" width="20%" />
+<p align="center">
+<img src="common/src/main/resources/icon.png" width="30%" />
+
 
 # Toss'd A [Dropz](https://github.com/LazuriteMC/Dropz) Fork.
 [![Dropz Discord](https://discordapp.com/api/guilds/719662192601071747/widget.png?style=shield)](https://discord.gg/NNPPHN7b3P)
@@ -14,3 +16,4 @@ You can make your own port as your own fork, I don't mind. Provide credit of som
 ## Features
 * Items dropped on the ground behave more realistically.
 * Items can be thrown, or "yeeted", by sneaking while dropping the item.
+</p>
