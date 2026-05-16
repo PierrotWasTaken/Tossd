@@ -1,4 +1,4 @@
-![](common/src/main/resources/icon.png)
+<img src="common/src/main/resources/icon.png" width="20%" />
 
 # Toss'd A [Dropz](https://github.com/LazuriteMC/Dropz) Fork.
 [![Dropz Discord](https://discordapp.com/api/guilds/719662192601071747/widget.png?style=shield)](https://discord.gg/NNPPHN7b3P)
